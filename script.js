@@ -3,7 +3,7 @@ function shortcut(s1, s2) {
 	if(!s1 || !s2){
 		return '';
 	}else{
-		console.log(s1.charAt(0)+s2.charAt(0));
+		return s1.charAt(0)+s2.charAt(0));
 	}
 }
 
